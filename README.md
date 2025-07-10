@@ -8,12 +8,13 @@ Learn how to organize files and content for a static website.
 Gain comfort with Git and GitHub workflow.
 
 ## 📚What I Learned
-Structuring HTML documents.  
-Working with relative file paths.  
-Using <a>, <img>, <ul>, <ol>, <p>, <h1> to <h6>, etc.  
-Good file organization in projects.  
-Making readable and well-commented code.  
+-Structuring HTML documents.  
+-Working with relative file paths.  
+-Using <a>, <img>, <ul>, <ol>, <p>, <h1> to <h6>, etc.  
+-Good file organization in projects.  
+-Making readable and well-commented code.  
+---
 
 ## 📝License
-This project is for learning purposes under [The Odin Project](https://www/theodinproject.com/). This project is open-source and free to use.
+This project is for learning purposes under [The Odin Project](https://www.theodinproject.com/). This project is open-source and free to use.
 
