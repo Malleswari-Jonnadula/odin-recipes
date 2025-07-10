@@ -13,7 +13,13 @@ Gain comfort with Git and GitHub workflow.
 -Using Using HTML tags like ``<a>``, ``<img>``, ``<ul>``, ``<ol>``, ``<p>``, ``<h1>`` to ``<h6>``  
 -Good file organization in projects.  
 -Making readable and well-commented code.  
----
+
+## 🌐Project Demo:
+👉[Click here](https://malleswari-jonnadula.github.io/odin-recipes/)
+
+## 🛠️Technologies Used
+- HTML5
+- Git & GitHub
 
 ## 📝License
 This project is for learning purposes under [The Odin Project](https://www.theodinproject.com/). This project is open-source and free to use.
