@@ -10,7 +10,7 @@ Gain comfort with Git and GitHub workflow.
 ## 📚What I Learned
 -Structuring HTML documents.  
 -Working with relative file paths.  
--Using <a>, <img>, <ul>, <ol>, <p>, <h1> to <h6>, etc.  
+-Using Using HTML tags like ``<a>``, ``<img>``, ``<ul>``, ``<ol>``, ``<p>``, ``<h1>`` to ``<h6>``  
 -Good file organization in projects.  
 -Making readable and well-commented code.  
 ---
